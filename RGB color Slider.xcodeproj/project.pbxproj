@@ -289,7 +289,7 @@
 				INFOPLIST_FILE = "RGB color Slider/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Costasilva.RGBrefeito;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Costasilva.RGB;
 				PRODUCT_NAME = "Que cor é essa?";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -305,7 +305,7 @@
 				INFOPLIST_FILE = "RGB color Slider/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Costasilva.RGBrefeito;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Costasilva.RGB;
 				PRODUCT_NAME = "Que cor é essa?";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = 1;
